@@ -1,4 +1,4 @@
-module github.com/dgdiniz/go-resilience.git
+module github.com/dgdiniz/go-resilience
 
 go 1.17
 
